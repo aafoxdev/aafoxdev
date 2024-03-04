@@ -1,13 +1,13 @@
 ## 👋 Hi! I'm Athenai
 [![Twitter: athenai2020](https://img.shields.io/twitter/follow/athenai2020?style=social)](https://twitter.com/athenai2020)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=aafoxdev&left_color=gray&right_color=blue)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aafoxdev&theme=vue)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aafoxdev&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aafoxdev&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aafoxdev&theme=vue)
+
 
 ## 🐤 Profile
 - name：Athenai
